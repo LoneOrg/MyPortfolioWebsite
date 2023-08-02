@@ -159,14 +159,14 @@ sup {
 }
 
 a {
-  -- color: #bd5d38;
-  color: #d2ecf6;
+  color: #bd5d38;
+  -- color: #d2ecf6; light blue
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  -- color: #824027;
-  color: #97A9B0;
+  color: #824027;
+  -- color: #97A9B0; light blue shade
   text-decoration: underline;
 }
 
